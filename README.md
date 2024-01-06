@@ -75,7 +75,7 @@ class MnistNet(nn.Module):
 Install cuda support
 
 ```bash
-curl -O https://github.com/IamK77/TTool/blob/main/Scripts/cuda.bat && cmd /c cuda.bat ur_env_name
+curl -O https://raw.githubusercontent.com/IamK77/TTool/main/Scripts/cuda.bat && cmd /c cuda.bat ur_env_name
 ```
 
 plz replace `ur_env_name` with your env name
